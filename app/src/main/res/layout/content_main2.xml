@@ -32,7 +32,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center_horizontal"
                 android:text="메일"
-                android:textSize="18pt"
+                android:textSize="19pt"
                 tools:layout_editor_absoluteX="-11dp"
                 tools:layout_editor_absoluteY="16dp" />
 
